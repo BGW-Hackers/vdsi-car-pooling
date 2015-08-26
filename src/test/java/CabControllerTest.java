@@ -1,4 +1,3 @@
-package org.springframework.samples.mvc.simple;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
